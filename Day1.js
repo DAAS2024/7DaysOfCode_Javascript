@@ -25,3 +25,4 @@ if(numeroDiez==stringDiez){
     console.log('Las variables numeroDiez y stringDiez no tienen el mismo valor');
 }
 console.log('**************************');
+console.log('**************************');

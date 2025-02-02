@@ -1,0 +1,28 @@
+# Ignorar la configuración del editor (VS Code)
+.vscode/
+
+# Ignorar dependencias de Node.js si usas Node.js (por ejemplo, si usas npm o yarn)
+node_modules/
+
+# Ignorar archivos temporales y de log
+*.log
+*.tmp
+
+# Ignorar los archivos de compilación de Sass y SCSS
+*.scss
+*.sass
+
+# Ignorar archivos de TypeScript si los estás usando
+*.ts
+
+# Ignorar archivos de compilación o distribución (si usas herramientas de build como Webpack)
+dist/
+build/
+
+# Ignorar el archivo de configuraciones de Git (en general no es necesario)
+.git/
+
+# Ignorar archivos de configuración personal (por ejemplo, si tienes configuraciones específicas)
+*.sublime-project
+*.sublime-workspace
+.idea/
