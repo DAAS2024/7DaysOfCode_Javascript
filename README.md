@@ -35,7 +35,7 @@ Si quieres unirte a este desafío, siéntete libre de clonar este repositorio y 
 
 Estoy seguro de que esta experiencia me dejará muchas enseñanzas y un gran avance en mis habilidades de programación.
 
-📚 **Repositorio:** [Enlace a tu repo]
+📚 **Repositorio:** https://github.com/DAAS2024
 
-📚 **Contacto:** [Tu contacto o redes sociales]
+📚 **Contacto:** https://www.linkedin.com/in/daniel-alberto-arapa-seje-85643634a/
 
