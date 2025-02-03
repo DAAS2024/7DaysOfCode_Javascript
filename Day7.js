@@ -46,7 +46,8 @@ switch(parseInt(menuUsuario)){
       opcion=false;
       break; 
     default:
-      alert('Ingrese una opción válida') ;
+      alert('Ingrese una opción válida');
+      break;
 }
 }
 
